@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Cập nhật ứng dụng</title>
-    <!-- Phiên bản được chọn tốt nhất -->
-    <item>
-        <title>Phiên bản 1.1.17</title>
-        <description>Cập nhật và cải tiến nhỏ.</description>
-        <pubDate>Thứ Bảy, 26 Tháng 7 2014 15:20:13 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.langgao.chanminh" sparkle:version="1.1.17" sparkle:os="android" />
-    </item>
-    <!-- Một phiên bản kiểm tra minimumSystemVersion -->
-    <item>
-        <title>Phiên bản 1.1.17</title>
-        <description>Cập nhật và cải tiến nhỏ.</description>
-        <pubDate>Thứ Bảy, 26 Tháng 7 2014 15:20:13 +0000</pubDate>
-        <enclosure url="https://apps.apple.com/vn/app/id6502420450" sparkle:version="1.1.17" sparkle:os="iOS" />
-    </item>
-  </channel>
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 1.15.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
+        </item>
+    </channel>
 </rss>
