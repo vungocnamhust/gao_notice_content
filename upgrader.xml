@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App Updates</title>
+    <link>https://example.com/appcast.xml</link>
+    <description>Cập nhật phiên bản mới nhất</description>
+    <language>vi-vn</language>
+    <item>
+      <title>Version 1.1.0</title>
+      <description>Tính năng mới và sửa lỗi quan trọng</description>
+      <pubDate>Wed, 13 Oct 2023 10:00:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.langgao.chanminh" length="12345678" type="application/vnd.android.package-archive"/>
+      <enclosure url="https://apps.apple.com/vn/app/id6502420450" length="12345678" type="application/octet-stream"/>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+    </item>
+    <item>
+      <title>Version 1.1.17</title>
+      <description>Sửa lỗi nhỏ</description>
+      <pubDate>Wed, 06 Oct 2024 10:00:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.langgao.chanminh" length="12345678" type="application/vnd.android.package-archive"/>
+      <enclosure url="https://apps.apple.com/vn/app/id6502420450" length="12345678" type="application/octet-stream"/>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+    </item>
+  </channel>
+</rss>
