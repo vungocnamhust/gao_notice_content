@@ -6,10 +6,11 @@
         <title>Version 1.1.17</title>
         <description>desc Версия</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.langgao.chanminh" sparkle:version="1.1.17" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         <sparkle:platformSpecific>
           <sparkle:ios>
-            <sparkle:deeplink>itms-apps://itunes.apple.com/app/id6502420450</sparkle:deeplink>
+            <sparkle:deeplink>itms-apps://itunes.apple.com/app/idYOUR_APP_ID</sparkle:deeplink>
           </sparkle:ios>
           <sparkle:android>
             <sparkle:deeplink>https://play.google.com/store/apps/details?id=com.langgao.chanminh</sparkle:deeplink>
