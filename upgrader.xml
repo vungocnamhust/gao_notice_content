@@ -7,6 +7,7 @@
         <description>desc Версия</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.langgao.chanminh" sparkle:version="1.1.17" />
+        <enclosure url="https://apps.apple.com/vn/app/id6502420450" sparkle:version="1.1.17" sparkle:os="iOS" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
