@@ -3,15 +3,15 @@
   <channel>
     <title>Cập nhật ứng dụng Chân Minh</title>
     <item>
-      <title>Phiên bản 1.1.20</title>
+      <title>Phiên bản 1.1.21</title>
       <description>Cập nhật bắt buộc - Vui lòng cập nhật ứng dụng ngay để tiếp tục sử dụng. Phiên bản này bao gồm các sửa lỗi quan trọng và cải thiện bảo mật.</description>
       <pubDate>Wed, 15 May 2025 12:00:00 +0000</pubDate>
-      <sparkle:version>1.1.20</sparkle:version>
+      <sparkle:version>1.1.21</sparkle:version>
       <sparkle:tags>
         <sparkle:criticalUpdate />
         <sparkle:mandatory />
       </sparkle:tags>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.langgao.chanminh" sparkle:version="1.1.20" sparkle:os="android" />
+      <enclosure url="https://play.google.com/store/apps/details?id=com.langgao.chanminh" sparkle:version="1.1.21" sparkle:os="android" />
     </item>
   </channel>
 </rss>
